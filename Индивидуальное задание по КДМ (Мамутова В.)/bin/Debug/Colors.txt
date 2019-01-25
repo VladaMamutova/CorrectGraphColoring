@@ -1,0 +1,75 @@
+Crimson
+Lime
+Yellow
+MediumOrchid
+Aquamarine
+DodgerBlue
+Tomato
+Gold
+BurlyWood
+DarkTurquoise
+MediumVioletRed
+Gainsboro
+Orchid
+ForestGreen
+DeepSkyBlue
+004 104 180
+PaleTurquoise
+Red
+Tan
+BlueViolet
+Silver
+RoyalBlue
+YellowGreen
+FireBrick
+Peru
+DarkOrange
+SlateBlue
+HotPink
+SandyBrown
+PaleGreen
+DarkGreen
+Goldenrod
+Aqua
+Teal
+Gray
+PeachPuff
+DarkRed
+Fuchsia
+RosyBrown
+LightSeaGreen
+GreenYellow
+DarkSlateBlue
+Chocolate
+PaleVioletRed
+OliveDrab
+SpringGreen
+SkyBlue
+SeaGreen
+089 102 255
+Coral
+DarkKhaki
+DarkOliveGreen
+255 249 125
+Purple
+Thistle
+Salmon
+253 077 121
+MediumAquamarine
+DarkSeaGreen
+002 095 097
+Sienna
+224 044 080
+037 241 170
+DimGray
+095 134 177
+DarkSlateGray
+IndianRed
+Brown
+009 156 193
+060 255 112
+175 243 070
+072 070 243
+070 196 255
+227 055 206
+228 178 062
